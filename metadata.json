@@ -1,0 +1,6 @@
+{
+  "name": "NOOR Barber",
+  "description": "Premium luxury barber website for NOOR Barber in Maidstone, UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
